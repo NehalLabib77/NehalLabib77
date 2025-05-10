@@ -1,49 +1,100 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">Hi 👋, I'm Noor Nehal Tanzim</h1>
+<h3 align="center">A passionate ML/AI Enthusiast also a Graphics Designer</h3>
 
-###
+<!-- ================= PROFILE VIEWS BADGE ================= -->
+<p align="left">
+  <!-- 🔧 Change `username` in the URL to match your GitHub handle -->
+  <img
+    src="https://komarev.com/ghpvc/?username=nehallabib77&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views counter"
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- ================ TROPHY / ACHIEVEMENTS ================ -->
+<p align="left">
+  <!-- 🔧 Update `username` here too if needed -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=nehallabib77"
+      alt="GitHub trophies"
+    />
+  </a>
+</p>
 
-###
+<!-- ================= CONNECT WITH ME ================= -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- 🔗 Update each href to your actual profile URLs -->
+  <a href="https://www.linkedin.com/in/labib-nehal-514333355" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://www.facebook.com/labib.nehal.77" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- =============== LANGUAGES & TOOLS =============== -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- 🔧 Add or remove <a> blocks to update your skills -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
-###
+<!-- ================ STATS WIDGETS ================ -->
+<!-- 🔧 You can rearrange or remove any of these <p> blocks -->
+<p align="left">
+  <!-- Top languages chart -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nehallabib77&show_icons=true&locale=en&layout=compact"
+    alt="Top languages"
+  />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<p align="left">
+  <!-- Overall GitHub stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nehallabib77&show_icons=true&locale=en"
+    alt="GitHub stats"
+  />
+</p>
 
-###
+<p align="left">
+  <!-- Contribution streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nehallabib77"
+    alt="GitHub streak"
+  />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- ================ CLEAR FLOATS ================ -->
+<br clear="both" />
