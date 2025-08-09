@@ -6,6 +6,13 @@
 
 ---
 
+
+## 📊 GitHub Stats & Top Languages
+![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehalLabib77&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehalLabib77&layout=compact&theme=dark)
+
+---
+
 ## 🔧 Tech & Tools
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/> 
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -35,12 +42,6 @@
 - [Depression-Prediction-Model](https://github.com/NehalLabib77/Depression-Prediction-Model) — ML notebook (Jupyter)  
 - [LSTM_Based_Poem_Generation_Project](https://github.com/NehalLabib77/LSTM_Based_Poem_Generation_Project) — NLP / LSTM experiment  
 - [YOLO_MRI_Tumor_Detection](https://github.com/NehalLabib77/YOLO_MRI_Tumor_Detection) — CV notebook / detection demo
-
----
-
-## 📊 GitHub Stats & Top Languages
-![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehalLabib77&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehalLabib77&layout=compact&theme=dark)
 
 ---
 
