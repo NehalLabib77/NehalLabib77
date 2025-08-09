@@ -47,12 +47,6 @@
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=NehalLabib77&theme=onedark&margin-w=10)
 
----
-
-## 🔧 How to update this README
-1. Edit this file on GitHub or locally and push.  
-2. Add or remove badges from shields.io as you like.  
-3. Push real projects (public repos) — they will show in top-langs and stats automatically.
 
 ---
 
