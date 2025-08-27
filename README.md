@@ -1,6 +1,6 @@
 # Hi, I'm Nehal 👋
 
-**Software learner | Student | Aspiring Dev**
+**ML Learner | Student | Aspiring Dev**
 
 ![Profile views](https://komarev.com/ghpvc/?username=NehalLabib77&color=orange)
 
@@ -21,7 +21,8 @@
 - Email: nehal.pstu77@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/labib-nehal-514333355/) 
 - Website: https://yourwebsite.example
-- HackerRank: https://www.hackerrank.com/profile/nehal_pstu77              
+- HackerRank: https://www.hackerrank.com/profile/nehal_pstu77
+- LeetCode: https://leetcode.com/u/Nehal_Labib/             
 - Twitter / X: https://twitter.com/yourhandle       
 
 ---
