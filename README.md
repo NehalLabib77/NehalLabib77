@@ -20,7 +20,8 @@
 ## 📫 Connect
 - Email: nehal.pstu77@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/labib-nehal-514333355/) 
-- Website: https://yourwebsite.example              
+- Website: https://yourwebsite.example
+- HackerRank: https://www.hackerrank.com/profile/nehal_pstu77              
 - Twitter / X: https://twitter.com/yourhandle       
 
 ---
