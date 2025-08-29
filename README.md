@@ -40,4 +40,4 @@
 
 ---
 
-Thanks for stopping by — feel free to email me at nehal.pstu77@gmail.com 🙂
+Thanks for stopping by — feel free to email me at Nehal.pstu77@gmail.com 🙂
